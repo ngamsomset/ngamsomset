@@ -1,6 +1,6 @@
 ### Hello Everyone 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... improving my skillset
 - 🌱 I’m currently learning ... Node.js and TypeScript
 - 👯 I’m looking to collaborate on ... Backend projects
 - 💬 Ask me about ... Anything
