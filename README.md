@@ -8,3 +8,6 @@
 - 😄 Pronouns: ... He/Him
 - 💁 Fav Quote: Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
 - ⚡ Fun fact: ... I paid 50$ for a cup of coffee
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngamsomset)](https://github.com/anuraghazra/github-readme-stats)
