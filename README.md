@@ -26,13 +26,11 @@ be exposed to various tools and frameworks that are used in the market such as P
 I have two years of full time work experience with one of the agencies here in Sydney. This was before I decided to take my master's degree course. I was responsible for all the front-end web applications using React. 
 There is an overlapping area where I also need to work on the backend part using PHP and Laravel. Since we had a small team at that time, cross-area work was inevitable. I have worked on various projects in two years
 from greenfield projects to legacy projects. Apart from React, I also have a chance to work with WordPress building small content-based applications. Most of the applications that we build in that timeframe will
-have a tech stack as follows, the frontend part always be React and Next.js(at that time, Next.js is still in an early stage) together with stage management like Redux and Recoil. The backend implemented PHP and Laravel.
-The deployment of choice is AWS. It was quite an industry standard at that time for the tech stack. I learned a lot from many engineers in the team and I also had a chance to expose the area that I'm interested in which is
+have a tech stack as follows, the frontend part always be React and Next.js(at that time, Next.js is still in an early stage). The backend implemented PHP and Laravel and the deployment of choice is AWS. 
+It was quite an industry standard at that time for the tech stack. I learned a lot from many engineers in the team and I also had a chance to expose the area that I'm interested in which is
 the backend development. 
 
 ## Who am I as an engineer?
 
-
-## if engineering is an art, I am an artist. - me.
 
 
