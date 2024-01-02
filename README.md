@@ -28,9 +28,9 @@ There is an overlapping area where I also need to work on the backend part using
 from greenfield projects to legacy projects. Apart from React, I also have a chance to work with WordPress building small content-based applications. Most of the applications that we build in that timeframe will
 have a tech stack as follows, the frontend part always be React and Next.js(at that time, Next.js is still in an early stage). The backend implemented PHP and Laravel and the deployment of choice is AWS. 
 It was quite an industry standard at that time for the tech stack. I learned a lot from many engineers in the team and I also had a chance to expose the area that I'm interested in which is
-the backend development. 
+the backend development. I also have .NET C# experience from freelancing projects.
 
 ## Who am I as an engineer?
-
+I think it's important you know who I am as a software engineer or developer. I have an engineering mindset when thinking about building something. This means, a lot of planning and discussion with teammates. When it comes to software, it must be maintainable, scalable and robust. Every single piece of software must be thoughtfully built, time is critical but not as much as how software will last for years to come. There is no point in building a quick production software without a proper structure and the right mindset, because, at the end of the day, time spent rebuilding those codes will take much longer time than carefully building one in the first place. If you are looking for someone who can smash things as quickly as possible without thinking throughout, I might not be the one that you are looking for. Because I'm a big believer that the quickest way to build any piece of software is to thoughtfully build in the first place. This includes but not limited to how the software will be design, what design patterns the project will utilize, how we will write the testing, what is the CI/CD pipeline will look like or how we will deploy applications so that it will be scalable in the future.
 
 
